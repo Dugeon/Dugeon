@@ -19,4 +19,6 @@ Esse epositório segue os seguintes principios:
 3ª - Pluralidade e democratização do conhecimento. 
 
 
+
+Os repositórios serão atualizados de acordo com o andar dos projetos, porem deixo claro que são hobbies e logo podem ter um longo tempo entre os lançamentos.
 By: Dugeon;
